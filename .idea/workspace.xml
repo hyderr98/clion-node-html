@@ -10,20 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab320992-9e71-496b-9fcb-937b089bb3a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/clion-node-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +20,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,17 +67,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602702816619</updated>
-      <workItem from="1602702818933" duration="1353000" />
+      <workItem from="1602702818933" duration="3328000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated Package json">
+      <created>1602781095134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602781095134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Package json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Package json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="161" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602703316437">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="161" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1602703316437" />
+    <state x="24" y="14" key="CommitChangelistDialog2" timestamp="1602781092942">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="24" y="14" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1602781092942" />
+    <state width="774" height="344" key="GridCell.Tab.0.bottom" timestamp="1602784038010">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="774" height="344" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
+    <state width="774" height="344" key="GridCell.Tab.0.center" timestamp="1602784038010">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="774" height="344" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
+    <state width="774" height="344" key="GridCell.Tab.0.left" timestamp="1602784038010">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="774" height="344" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
+    <state width="774" height="344" key="GridCell.Tab.0.right" timestamp="1602784038010">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="774" height="344" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
   </component>
 </project>

@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab320992-9e71-496b-9fcb-937b089bb3a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +48,17 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602702816619</updated>
       <workItem from="1602702818933" duration="3328000" />
+      <workItem from="1617771806496" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Package json">
       <created>1602781095134</created>
@@ -80,29 +89,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated Package json" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="161" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602703316437">
+    <state width="1458" height="400" key="GridCell.Tab.0.bottom" timestamp="1617772546875">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="161" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1500.960@0.0.1500.960" timestamp="1602703316437" />
-    <state x="24" y="14" key="CommitChangelistDialog2" timestamp="1602781092942">
+    <state width="1458" height="400" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
+    <state width="1458" height="400" key="GridCell.Tab.0.center" timestamp="1617772546875">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="24" y="14" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1602781092942" />
-    <state width="774" height="344" key="GridCell.Tab.0.bottom" timestamp="1602784038010">
+    <state width="1458" height="400" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
+    <state width="1458" height="400" key="GridCell.Tab.0.left" timestamp="1617772546875">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="774" height="344" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
-    <state width="774" height="344" key="GridCell.Tab.0.center" timestamp="1602784038010">
+    <state width="1458" height="400" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
+    <state width="1458" height="400" key="GridCell.Tab.0.right" timestamp="1617772546875">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="774" height="344" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
-    <state width="774" height="344" key="GridCell.Tab.0.left" timestamp="1602784038010">
+    <state width="1458" height="400" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
+    <state x="497" y="183" key="RollbackChangesDialog" timestamp="1617772827228">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="774" height="344" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
-    <state width="774" height="344" key="GridCell.Tab.0.right" timestamp="1602784038010">
-      <screen x="0" y="0" width="1500" height="960" />
-    </state>
-    <state width="774" height="344" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1602784038010" />
+    <state x="497" y="183" key="RollbackChangesDialog/0.0.1500.960@0.0.1500.960" timestamp="1617772827228" />
   </component>
 </project>

@@ -53,13 +53,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602702816619</updated>
       <workItem from="1602702818933" duration="3328000" />
-      <workItem from="1617771806496" duration="1485000" />
+      <workItem from="1617771806496" duration="2196000" />
+      <workItem from="1618805113056" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Package json">
       <created>1602781095134</created>
@@ -85,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617772862158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed my html file">
+      <created>1617773331779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617773331780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,36 +94,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Package json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Package json" />
+    <MESSAGE value="Changed my html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed my html file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1617772860921">
+    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1617773330732">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1617772860921" />
-    <state width="1458" height="400" key="GridCell.Tab.0.bottom" timestamp="1617772546875">
+    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1617773330732" />
+    <state width="1458" height="400" key="GridCell.Tab.0.bottom" timestamp="1617835269235">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="400" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
-    <state width="1458" height="400" key="GridCell.Tab.0.center" timestamp="1617772546875">
+    <state width="1458" height="400" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1617835269235" />
+    <state width="1458" height="400" key="GridCell.Tab.0.center" timestamp="1617835269234">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="400" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
-    <state width="1458" height="400" key="GridCell.Tab.0.left" timestamp="1617772546875">
+    <state width="1458" height="400" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1617835269234" />
+    <state width="1458" height="400" key="GridCell.Tab.0.left" timestamp="1617835269233">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="400" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
-    <state width="1458" height="400" key="GridCell.Tab.0.right" timestamp="1617772546875">
+    <state width="1458" height="400" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1617835269233" />
+    <state width="1458" height="400" key="GridCell.Tab.0.right" timestamp="1617835269234">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="400" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1617772546875" />
+    <state width="1458" height="400" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1617835269234" />
     <state x="497" y="183" key="RollbackChangesDialog" timestamp="1617772827228">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="497" y="183" key="RollbackChangesDialog/0.0.1500.960@0.0.1500.960" timestamp="1617772827228" />
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1617772867828">
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1617773333525">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1617772867828" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1617773333525" />
   </component>
 </project>

@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab320992-9e71-496b-9fcb-937b089bb3a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/simple-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/simple-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/simple-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <updated>1602702816619</updated>
       <workItem from="1602702818933" duration="3328000" />
       <workItem from="1617771806496" duration="2196000" />
-      <workItem from="1618805113056" duration="2239000" />
+      <workItem from="1618805113056" duration="2383000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Package json">
       <created>1602781095134</created>
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618805669095</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Simple-Page">
+      <created>1619069052413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619069052414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,13 +115,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Package json" />
     <MESSAGE value="Changed my html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed my html file" />
+    <MESSAGE value="Added Simple-Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Simple-Page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1618805666933">
+    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1619069050429">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1618805666933" />
+    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1619069050429" />
     <state width="1458" height="400" key="GridCell.Tab.0.bottom" timestamp="1618805899908">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -136,9 +143,9 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="497" y="183" key="RollbackChangesDialog/0.0.1500.960@0.0.1500.960" timestamp="1617772827228" />
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1618805673645">
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2" timestamp="1619069075375">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1618805673645" />
+    <state x="343" y="213" key="Vcs.Push.Dialog.v2/0.0.1500.960@0.0.1500.960" timestamp="1619069075375" />
   </component>
 </project>

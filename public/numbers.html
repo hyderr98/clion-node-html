@@ -22,17 +22,87 @@
         #bottom td{
             background-color: darkolivegreen;
         }
-        p{
-            background-color: lightgrey;
+        .paragraph
+        {
+            background-color: white;
             border: black;
-            width: 940px;
-            padding: 50px;
+            width: 802px;
+            padding: 25px;
+            border-style:solid;
+
+
+
+
+        }
+        .specialContainer{
+            border: solid black;
+            padding: 35px;
+            background-color: #c8e6c9;
+            width: 860px;
+        }
+
+
+
+
+
+
+        .container{
+            display: flex;
+            align-items: center;
+            justify-content: center;
 
         }
 
 
+
+        img{
+            max-width: 100%
+        }
+        .img{
+            flex-basis: 50%;
+        }
+
+
+
+
+        .columnLeft{
+            float: left;
+            width: 10%;
+        }
+
+        .columnRight{
+            float: right;
+            width: 10%;
+        }
+
+        .columnMiddle {
+            display: inline-block;
+            width: 80%;
+        }
+
+        .row{
+            display: flex;
+            width: 80%;
+            height: 100%;
+
+        }
+
+
+
+
+
+
+
+
+
+
     </style>
 </head>
+
+
+
+
+
 <body>
 <h1>Welcome to my page of numbers</h1>
 <table>
@@ -121,8 +191,12 @@
         <td>Exponential</td>
     </tr>
 </table>
-<div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+<br>
+<br>
+<br>
+<div class="specialContainer">
+    <div class="paragraph">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
     dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -137,9 +211,182 @@
     minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim id est laborum.</p>
+        officia deserunt mollit anim id est laborum.
+
+
+    </div>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<div class="container">
+    <div class="text">
+        <p>Lineal</p>
+    </div>
+    <div class="container">
+        <div class="img">
+            <img src="images/pic1.PNG">
+        </div>
+    </div>
 
 
 </div>
+
+<div class="container">
+    <div class="text">
+        <p>Quadratic</p>
+    </div>
+    <div class="container">
+        <div class="img">
+             <img src="images/pic2.PNG">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="text">
+        <p>Cube</p>
+    </div>
+    <div class="container">
+        <div class="img">
+             <img src="images/pic3.PNG">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="text">
+        <p>Factorial</p>
+    </div>
+    <div class="container">
+         <div class="img">
+              <img src="images/pic4.PNG">
+         </div>
+    </div>
+</div>
+
+<div class="container">
+     <div class="text">
+          <p>Exponential</p>
+     </div>
+     <div class="container">
+          <div class="img">
+               <img src="images/pic5.PNG">
+          </div>
+     </div>
+</div>
+
+<div class="row">
+    <div class="columnLeft" style="background-color: peachpuff">
+        <p>Lorem ipsum
+        dolor sit amet,
+        consectetur
+        adipiscing elit,
+        sed do eiusmod
+        tempor
+        incididunt ut
+        labore et dolore
+        magna aliqua.
+        Ut enim ad
+        minim veniam,
+        quis nostrud
+        exercitation
+        ullamco laboris
+        nisi ut aliquip
+        ex ea commodo
+        consequat. Duis
+        aute irure dolor
+        in
+        reprehenderit
+        in voluptate
+        velit esse cillum
+        dolore eu fugiat
+        nulla pariatur.
+        Excepteur sint
+        occaecat
+        cupidatat non
+        proident, sunt
+        in culpa qui
+        officia deserunt
+        mollit anim id
+            est laborum.</p>
+    </div>
+    <div class="columnMiddle" style="background-color: lightpink">
+        <p>Sed ut perspiciatis unde omnis iste natus error sit
+        voluptatem accusantium doloremque laudantium,
+        totam rem aperiam, eaque ipsa quae ab illo inventore
+        veritatis et quasi architecto beatae vitae dicta sunt
+        explicabo. Nemo enim ipsam voluptatem quia
+        voluptas sit aspernatur aut odit aut fugit, sed quia
+        consequuntur magni dolores eos qui ratione
+        voluptatem sequi nesciunt. Neque porro quisquam
+        est, qui dolorem ipsum quia dolor sit amet,
+        consectetur, adipisci velit, sed quia non numquam eius
+        modi tempora incidunt ut labore et dolore magnam
+        aliquam quaerat voluptatem. Ut enim ad minima
+        veniam, quis nostrum exercitationem ullam corporis
+        suscipit laboriosam, nisi ut aliquid ex ea commodi
+        consequatur? Quis autem vel eum iure reprehenderit
+        qui in ea voluptate velit esse quam nihil molestiae
+        consequatur, vel illum qui dolorem eum fugiat quo
+        voluptas nulla pariatur? Sed ut perspiciatis unde omnis
+        iste natus error sit voluptatem accusantium
+        doloremque laudantium, totam rem aperiam, eaque
+        ipsa quae ab illo inventore veritatis et quasi architecto
+        beatae vitae dicta sunt explicabo. Nemo enim ipsam
+        voluptatem quia voluptas sit aspernatur aut odit aut
+        fugit, sed quia consequuntur magni dolores eos qui
+        ratione voluptatem sequi nesciunt. Neque porro
+        quisquam est, qui dolorem ipsum quia dolor sit amet,
+        consectetur, adipisci velit, sed quia non numquam eius
+        modi tempora incidunt ut labore et dolore magnam
+        aliquam quaerat voluptatem. Ut enim ad minima
+        veniam, quis nostrum exercitationem ullam corporis
+        suscipit laboriosam, nisi ut aliquid ex ea commodi
+        consequatur? Quis autem vel eum iure reprehenderit
+        qui in ea voluptate velit esse quam nihil molestiae
+        consequatur, vel illum qui dolorem eum fugiat quo
+            voluptas nulla pariatur?</p>
+    </div>
+    <div class="columnRight" style="background-color: peachpuff">
+        <p>Lorem ipsum
+        dolor sit amet,
+        consectetur
+        adipiscing elit,
+        sed do eiusmod
+        tempor
+        incididunt ut
+        labore et dolore
+        magna aliqua. Ut
+        enim ad minim
+        veniam, quis
+        nostrud
+        exercitation
+        ullamco laboris
+        nisi ut aliquip ex
+        ea commodo
+        consequat. Duis
+        aute irure dolor
+        in reprehenderit
+        in voluptate velit
+        esse cillum dolore
+        eu fugiat nulla
+        pariatur.
+        Excepteur sint
+        occaecat
+        cupidatat non
+        proident, sunt in
+        culpa qui officia
+        deserunt mollit
+        anim id est
+            laborum.</p>
+    </div>
+</div>
+
+
+
 </body>
 </html>

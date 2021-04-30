@@ -71,7 +71,7 @@
       <updated>1602702816619</updated>
       <workItem from="1602702818933" duration="3328000" />
       <workItem from="1617771806496" duration="2196000" />
-      <workItem from="1618805113056" duration="21378000" />
+      <workItem from="1618805113056" duration="22086000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Package json">
       <created>1602781095134</created>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619751809500</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finished table, box-in-box, pictures in numbers.html">
+      <created>1619759035765</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619759035765</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,33 +186,34 @@
     <MESSAGE value="Adding to index and added resume.html" />
     <MESSAGE value="Finished editing resume.html" />
     <MESSAGE value="Adding pictures to numbers.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding pictures to numbers.html" />
+    <MESSAGE value="Finished table, box-in-box, pictures in numbers.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished table, box-in-box, pictures in numbers.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="503" y="304" key="#Notifications" timestamp="1619410427164">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="503" y="304" key="#Notifications/0.0.1500.960@0.0.1500.960" timestamp="1619410427164" />
-    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1619751807334">
+    <state x="358" y="49" key="CommitChangelistDialog2" timestamp="1619759034796">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1619751807334" />
-    <state width="759" height="134" key="GridCell.Tab.0.bottom" timestamp="1619758966587">
+    <state x="358" y="49" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1619759034796" />
+    <state width="759" height="134" key="GridCell.Tab.0.bottom" timestamp="1619759725868">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="759" height="134" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1619758966587" />
-    <state width="759" height="134" key="GridCell.Tab.0.center" timestamp="1619758966587">
+    <state width="759" height="134" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1619759725868" />
+    <state width="759" height="134" key="GridCell.Tab.0.center" timestamp="1619759725868">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="759" height="134" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1619758966587" />
-    <state width="759" height="134" key="GridCell.Tab.0.left" timestamp="1619758966586">
+    <state width="759" height="134" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1619759725868" />
+    <state width="759" height="134" key="GridCell.Tab.0.left" timestamp="1619759725868">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="759" height="134" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1619758966586" />
-    <state width="759" height="134" key="GridCell.Tab.0.right" timestamp="1619758966587">
+    <state width="759" height="134" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1619759725868" />
+    <state width="759" height="134" key="GridCell.Tab.0.right" timestamp="1619759725868">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="759" height="134" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1619758966587" />
+    <state width="759" height="134" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1619759725868" />
     <state x="497" y="183" key="RollbackChangesDialog" timestamp="1617772827228">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
